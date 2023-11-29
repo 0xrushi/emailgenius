@@ -68,7 +68,8 @@ In contrast, widely-used email services like Microsoft Outlook, Gmail, and Zoho 
 ![Screenshot 2023-11-28 at 10 12 53 PM](https://github.com/0xrushi/emailgenius/assets/6279035/4dfa487c-ff54-45e1-92b6-0feba8fb62e5)
 ![Screenshot 2023-11-28 at 10 13 08 PM](https://github.com/0xrushi/emailgenius/assets/6279035/024cda90-eff3-4e7e-b595-614e7da4b6d6)
 
-
+## Limitations
+- As of now, the existing code template is compatible exclusively with Gmail.
 
 ## Contributing
 Contributions to EmailGenius are welcome. Please follow the standard fork, branch, and pull request workflow.
