@@ -50,12 +50,15 @@ EmailGenius is an AI-driven email categorization tool that automates the process
 - Launch the app and enter a category in the text input field.
 - Click 'Submit' to categorize emails based on the specified category.
 - The app displays the processed emails along with their categorization.
+- In production mode (using the --approve flag), labels are generated and the actual sorting of emails into these labels occurs.
 
-## Email Ingestion
-The `ingest_emails` function connects to an IMAP server and fetches emails, storing them in a JSON file after cleaning the text.
+## Screenshots
+![Screenshot 2023-11-28 at 9 44 10 PM](https://github.com/0xrushi/emailgenius/assets/6279035/e94d70f1-6ba2-43a3-915b-6d4b8eb29e79)
+![Screenshot 2023-11-28 at 9 49 00 PM](https://github.com/0xrushi/emailgenius/assets/6279035/4c6370f4-abca-4b50-bdd0-11ecfb11cb4a)
+![Screenshot 2023-11-28 at 10 12 53 PM](https://github.com/0xrushi/emailgenius/assets/6279035/4dfa487c-ff54-45e1-92b6-0feba8fb62e5)
+![Screenshot 2023-11-28 at 10 13 08 PM](https://github.com/0xrushi/emailgenius/assets/6279035/024cda90-eff3-4e7e-b595-614e7da4b6d6)
 
-## Streamlit Interface
-The `run_streamlit` function uses Streamlit to create an interactive UI, allowing users to input categories and view categorized emails.
+
 
 ## Contributing
 Contributions to EmailGenius are welcome. Please follow the standard fork, branch, and pull request workflow.
