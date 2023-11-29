@@ -1,0 +1,5 @@
+email_data.json
+credentials.json
+.DS_Store
+.vscode/settings.json
+src/__pycache__/utils.cpython-310.pyc
