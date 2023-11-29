@@ -6,7 +6,7 @@ The market offers various proprietary email categorization and management tools,
 - [SaneBox](https://www.sanebox.com/): This tool automatically organizes incoming emails into different folders based on user behavior.
 - [Clean Email](https://clean.email/): A management tool designed to help users declutter their inboxes from unnecessary emails.
 
-However, these tools have limitations, such as requiring payment and often adopting a pricing model based on each email account. With the ongoing democratization of AI, it's expected that even standard servers will be capable of running similar processes more affordably, accommodating any number of accounts within the next five years.
+However, these tools have limitations, such as not being opensource and requiring payment and often adopting a pricing model based on each email account. With the ongoing democratization of AI, it's expected that even standard servers will be capable of running similar processes more affordably, accommodating any number of accounts within the next five years.
 
 In contrast, widely-used email services like Microsoft Outlook, Gmail, and Zoho Mail can be cumbersome in setting up email filter rules, often involving numerous steps. Moreover, users frequently encounter issues where emails from unsubscribed websites persist in appearing in their inboxes.
 
