@@ -24,7 +24,7 @@ In contrast, widely-used email services like Microsoft Outlook, Gmail, and Zoho 
    ```
 2. Navigate to the project directory:
    ```
-   cd email-genius
+   cd emailgenius
    ```
 3. Install the required Python packages:
    ```
